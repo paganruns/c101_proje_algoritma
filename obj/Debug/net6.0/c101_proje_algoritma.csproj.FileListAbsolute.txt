@@ -1,0 +1,15 @@
+C:\Users\347264\Documents\Sites\csharp\c101_proje_algoritma\bin\Debug\net6.0\c101_proje_algoritma.exe
+C:\Users\347264\Documents\Sites\csharp\c101_proje_algoritma\bin\Debug\net6.0\c101_proje_algoritma.deps.json
+C:\Users\347264\Documents\Sites\csharp\c101_proje_algoritma\bin\Debug\net6.0\c101_proje_algoritma.runtimeconfig.json
+C:\Users\347264\Documents\Sites\csharp\c101_proje_algoritma\bin\Debug\net6.0\c101_proje_algoritma.dll
+C:\Users\347264\Documents\Sites\csharp\c101_proje_algoritma\bin\Debug\net6.0\c101_proje_algoritma.pdb
+C:\Users\347264\Documents\Sites\csharp\c101_proje_algoritma\obj\Debug\net6.0\c101_proje_algoritma.csproj.AssemblyReference.cache
+C:\Users\347264\Documents\Sites\csharp\c101_proje_algoritma\obj\Debug\net6.0\c101_proje_algoritma.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\347264\Documents\Sites\csharp\c101_proje_algoritma\obj\Debug\net6.0\c101_proje_algoritma.AssemblyInfoInputs.cache
+C:\Users\347264\Documents\Sites\csharp\c101_proje_algoritma\obj\Debug\net6.0\c101_proje_algoritma.AssemblyInfo.cs
+C:\Users\347264\Documents\Sites\csharp\c101_proje_algoritma\obj\Debug\net6.0\c101_proje_algoritma.csproj.CoreCompileInputs.cache
+C:\Users\347264\Documents\Sites\csharp\c101_proje_algoritma\obj\Debug\net6.0\c101_proje_algoritma.dll
+C:\Users\347264\Documents\Sites\csharp\c101_proje_algoritma\obj\Debug\net6.0\refint\c101_proje_algoritma.dll
+C:\Users\347264\Documents\Sites\csharp\c101_proje_algoritma\obj\Debug\net6.0\c101_proje_algoritma.pdb
+C:\Users\347264\Documents\Sites\csharp\c101_proje_algoritma\obj\Debug\net6.0\c101_proje_algoritma.genruntimeconfig.cache
+C:\Users\347264\Documents\Sites\csharp\c101_proje_algoritma\obj\Debug\net6.0\ref\c101_proje_algoritma.dll
